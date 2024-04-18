@@ -50,6 +50,7 @@ async function init() {
       'stop_name',
       'stop_short_name',
       'tts_stop_name',
+      'operational_status',
       'stop_lat',
       'stop_lon',
       'locality',
